@@ -6,14 +6,22 @@ Cybersecurity breaches are common anomalies for distributed cyber-physical syste
 
 ## Files
 
-### Section 3.3
+### Section 3
+
+#### Section 3.1
+
+#### Section 3.2
+
+#### Section 3.3
 The EdgeIIoT Dataset:
 
 'compare_with_cent.ipynb': The code in order to compare the performance in Section 3.3 under both imbalanced and balanced cases. Updated on 10th, Aug, 2023.
 
 'EdgeIIoT_select_redistribution': The code in order to compare the performance in Section 3.3 under balanced setting and repeating the experiment. Updated on 10th, Aug, 2023.
 
-#### Section 4
+### Section 4
+
 The MQTT Dataset:
+
 'Algorithm.ipynb': The code to compare the performance in Section 4 without PCA. (Table 7)
 'Algorithm_pca.ipynb': The code to compare the performance in Section 4 after PCA. (Table 8)
