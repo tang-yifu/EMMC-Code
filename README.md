@@ -23,5 +23,6 @@ The EdgeIIoT Dataset:
 
 The MQTT Dataset:
 
-'Algorithm.ipynb': The code to compare the performance in Section 4 without PCA. (Table 7)
-'Algorithm_pca.ipynb': The code to compare the performance in Section 4 after PCA. (Table 8)
+'Algorithm.ipynb': The code to compare the performance in Section 4 without PCA. (Table 7 in the paper)
+
+'Algorithm_pca.ipynb': The code to compare the performance in Section 4 after PCA. (Table 8 in the paper)
