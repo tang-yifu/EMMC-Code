@@ -10,16 +10,9 @@ We keep maintaining the codes and update the newest versions, including error co
 
 ### Section 3
 
-#### Section 3.1
+'compare_with_cent.ipynb': The code in order to compare the performance in Section 3.3 under both imbalanced and balanced cases of the EdgeIIoT Dataset. Updated on 10th, Aug, 2023.
 
-#### Section 3.2
-
-#### Section 3.3
-The EdgeIIoT Dataset:
-
-'compare_with_cent.ipynb': The code in order to compare the performance in Section 3.3 under both imbalanced and balanced cases. Updated on 10th, Aug, 2023.
-
-'EdgeIIoT_select_redistribution': The code in order to compare the performance in Section 3.3 under balanced setting and repeating the experiment. Updated on 10th, Aug, 2023.
+'EdgeIIoT_select_redistribution': The code in order to compare the performance in Section 3.3 under balanced setting and repeating the experiment of the EdgeIIoT Dataset. Updated on 10th, Aug, 2023.
 
 ### Section 4
 
