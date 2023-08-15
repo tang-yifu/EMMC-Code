@@ -8,13 +8,13 @@ Cybersecurity breaches are common anomalies for distributed cyber-physical syste
 ## Files
 We keep maintaining the codes and updating the newest versions, including error corrections, functional additions, etc. 
 
-The following file helps you realize the results in the paper.
+The following file helps you realize the results of the paper. You are encouraged to put the file in the same dictionary of the CSV data with respect to different data sets.
 
 ### Section 3
 
-'compare_with_cent.ipynb': The code in order to compare the performance in Section 3.3 under both imbalanced and balanced cases of the EdgeIIoT Dataset. (Figure 5) Updated on 10th, Aug, 2023.
+'compare_with_cent.ipynb': The code in order to compare the performance in Section 3.3 under both imbalanced and balanced cases of the EdgeIIoT Dataset. (Figure 5) Updated on 15th, Aug, 2023.
 
-'EdgeIIoT_select_redistribution': The code in order to compare the performance in Section 3.3 under a balanced setting and repeat the experiment of the EdgeIIoT Dataset. (Table 6) Updated on 10th, Aug, 2023.
+'EdgeIIoT_select_redistribution': The code in order to compare the performance in Section 3.3 under a balanced setting and repeat the experiment of the EdgeIIoT Dataset. (Table 6) Updated on 15th, Aug, 2023.
 
 ### Section 4
 
