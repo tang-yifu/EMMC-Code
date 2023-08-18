@@ -24,6 +24,10 @@ The MQTT Dataset:
 
 'Algorithm_pca.ipynb': The code to compare the performance in Section 4 after PCA. (Table 8 in the paper)
 
+### Other remarks
+
+In the code above, the scalar function is trained by full test data. We point out that this scalar is nothing but means and variances. One can equivalently train a scalar given the mean and variance of each node and their proportions in real processes.
+
 ## Contact 
 Please contact the authors of [this paper](https://dl.acm.org/doi/abs/10.1145/3585520) if you have any questions or comments.
 
